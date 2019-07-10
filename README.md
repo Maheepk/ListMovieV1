@@ -1,6 +1,6 @@
-# Reddit-Test
+# ListMovie
 
-clone the repo, and run `pod install` from the Example directory first.
+clone the repo, and run `pod install` from the Source Folder, that will create Workspace file, open work space file and project should work for you.
 
 ## Requirements
 
